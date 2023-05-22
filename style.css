@@ -1,0 +1,11 @@
+header{
+    background-color: gray;
+    height: 200px;
+    padding: 10px;
+}
+li{
+list-style: circle;
+display: inline;
+padding: 5px;
+
+}
